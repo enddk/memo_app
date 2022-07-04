@@ -14,5 +14,3 @@ firebase<br>
 
 <h2>URL</h2>
 https://memoappli.web.app/
-
-<h2>view</h2>
